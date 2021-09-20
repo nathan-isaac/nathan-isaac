@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hey! I am Nathan 👋
+
+I’m an software engineer currently working for [HighPoint](https://www.mhighpoint.com/) as a Technical Architect.
+
+- ✍️ [My tech blog](https://blog.nathanisaac.io/)
+- 📩 You can contact me [by mail](mailto:nathanjisaac@gmail.com)
 
 <!--
 **nathanjisaac/nathanjisaac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
