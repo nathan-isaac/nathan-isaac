@@ -2,7 +2,7 @@
 
 I’m an software engineer currently working for [HighPoint](https://www.mhighpoint.com/) as a Technical Architect.
 
-- ✍️ [My tech blog](https://blog.nathanisaac.io/)
+- ✍️ [My tech blog](https://nathanisaac.io/)
 - 📩 You can contact me [by mail](mailto:nathanjisaac@gmail.com)
 
 <!--
