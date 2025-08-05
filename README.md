@@ -1,6 +1,6 @@
 ### Hey! I am Nathan 👋
 
-I’m a software engineer currently working for [HighPoint](https://www.mhighpoint.com/) as a Technical Architect. At HighPoint, I develop full-stack applications written in Kotlin and React. 
+I’m a software engineer currently working for [Angel](https://www.angel.com/) as a Senior Software Engineer.
 
 - ✍️ [My tech blog](https://nathanisaac.io/)
 
